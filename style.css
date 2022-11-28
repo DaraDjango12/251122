@@ -11,6 +11,14 @@
 
         
     }
+
+    .nav li a{
+        background-color: rgb(63, 59, 59);
+        padding:0.1rem 0.5rem;
+        border-radius: 1rem;
+        color: gold;
+        gap:1rem;
+    }
     
     nav ul {
         flex-direction: column;
@@ -33,6 +41,14 @@
         text-align: center;
         gap: 1rem;
 
+    }
+
+    .nav li a{
+        background-color: rgb(63, 59, 59);
+        padding:0.1rem 0.5rem;
+        border-radius: 1rem;
+        color: gold;
+        gap:1rem;
     }
 
     .form1{
@@ -126,7 +142,7 @@ nav li a:hover {
 }
 nav li a{
     background-color: rgb(63, 59, 59);
-    /* padding: 1rem 2rem; */
+    padding: 1rem 2rem;
     border-radius: 1rem;
     color: gold;
 }
